@@ -1,6 +1,6 @@
 # Alchemy & Crafting Supplies
 
-A mod for **The Witcher 3: Wild Hunt** that adds all Alchemy Ingredients and Crafting Materials to your inventory.
+A mod for **The Witcher 3: Wild Hunt 1.32(Classic)** that adds all Alchemy Ingredients and Crafting Materials to your inventory.
 
 
 ## Features
