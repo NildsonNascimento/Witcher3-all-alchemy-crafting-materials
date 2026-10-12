@@ -1,0 +1,3 @@
+[Exploration]
+IK_F4=(Action=ItemsWitcher)
+IK_F3=(Action=GiveMoney)
